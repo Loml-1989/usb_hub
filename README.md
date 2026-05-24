@@ -3,3 +3,5 @@ A USB hub I made from scratch.
 
 # PCB
 ![](3D_PCB3_2026-05-24.png)
+![](2026-05-24-161251_hyprshot.png)
+![](2026-05-24-161438_hyprshot.png)
